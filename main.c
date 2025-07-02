@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <string.h>
 
-#define max_alunos 2
+#define max_alunos 5
 
 float calcularMedia(float n1, float n2, float n3);
 
